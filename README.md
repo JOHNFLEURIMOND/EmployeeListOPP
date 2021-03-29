@@ -26,17 +26,12 @@ Example refrigerator contents
 6. 4.8 lbs of frozen with a smell score of 10 (expired)
 7. 0.8 lbs of produce with a smell score of 10 (expired)
 
-In this example, the contents should evaluate to
-
-● Meat: 0.75
-
-● Frozen: 4.8
-
-● Produce: 2.3
-
-
-Write a function that can receive contents and return the total weight of each expired category.
-Include some code that calls the function with the example input above and print the results.
+Coding challenge:
+1.) Make a function that adds employees.
+2.) Generate a Org Chart in a specifc format.
+3.) Remove Employees.
+4.) Move an employee from one manager to another manager.
+5.) Count the number of employees that ultimately reports up to a given manager
 
 # Portfolio :open_file_folder::
 
