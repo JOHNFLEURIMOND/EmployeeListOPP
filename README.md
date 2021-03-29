@@ -35,6 +35,8 @@ Coding challenge:
 
 # Portfolio :open_file_folder::
 
+
+
 ** :computer:   WEBSITE:** [John Fleurimond](http://johnfleurimond.com)
 
 # How To Get It Started :arrow_forward: :
